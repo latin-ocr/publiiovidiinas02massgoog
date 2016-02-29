@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./publiiovidiinas02massgoog_0082.png"; bbox 0 0 2768 4694; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 183 1337 1188 1477">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 183 1337 1188 1477">
+     <span class='ocr_line' id='line_1_1' title="bbox 183 1337 1188 1477; baseline -0.002 0"><span class='ocrx_word' id='word_1_1' title='bbox 183 1339 673 1477; x_wconf 86' lang='lat' dir='ltr'>APPENDIX</span> <span class='ocrx_word' id='word_1_2' title='bbox 715 1337 1188 1474; x_wconf 89' lang='lat' dir='ltr'>OVIDIANA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 414 1857 946 1989">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 414 1857 946 1989">
+     <span class='ocr_line' id='line_1_2' title="bbox 414 1857 946 1989; baseline 0.008 -5"><span class='ocrx_word' id='word_1_3' title='bbox 414 1857 651 1989; x_wconf 85' lang='lat' dir='ltr'>VITAM</span> <span class='ocrx_word' id='word_1_4' title='bbox 691 1880 946 1988; x_wconf 90' lang='lat' dir='ltr'>OVIDII</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 313 2145 1034 2224">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 313 2145 1034 2224">
+     <span class='ocr_line' id='line_1_3' title="bbox 313 2145 1034 2224; baseline 0.006 -4"><span class='ocrx_word' id='word_1_5' title='bbox 313 2148 346 2220; x_wconf 99' lang='lat' dir='ltr'>A</span> <span class='ocrx_word' id='word_1_6' title='bbox 377 2146 578 2221; x_wconf 84' lang='lat' dir='ltr'>VARllS</span> <span class='ocrx_word' id='word_1_7' title='bbox 619 2145 1034 2224; x_wconf 85' lang='lat' dir='ltr'>CONSCRIPTAM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 156 2597 1192 2675">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 156 2597 1192 2675">
+     <span class='ocr_line' id='line_1_4' title="bbox 156 2597 1192 2675; baseline 0.008 -15"><span class='ocrx_word' id='word_1_8' title='bbox 156 2598 254 2661; x_wconf 83' lang='lat' dir='ltr'>ALIA</span> <span class='ocrx_word' id='word_1_9' title='bbox 274 2599 379 2675; x_wconf 76' lang='lat' dir='ltr'>QUAE</span> <span class='ocrx_word' id='word_1_10' title='bbox 398 2598 488 2661; x_wconf 79' lang='lat' dir='ltr'>vnu</span> <span class='ocrx_word' id='word_1_11' title='bbox 509 2597 633 2663; x_wconf 83' lang='lat' dir='ltr'><strong>DOCTI</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 656 2602 711 2663; x_wconf 89' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_13' title='bbox 733 2601 882 2663; x_wconf 83' lang='lat' dir='ltr'>0v1n10</span> <span class='ocrx_word' id='word_1_14' title='bbox 904 2602 1192 2667; x_wconf 76' lang='lat' dir='ltr'>SCRIPSERUNT.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1388 4694">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1388 4694">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1388 4694; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 1388 4694; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
